@@ -1,1 +1,1 @@
-worker: python ChatterBot.ipynb
+worker: python ChatterBot.py
